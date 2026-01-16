@@ -172,5 +172,3 @@
   <img src="https://komarev.com/ghpvc/?username=sudobhavik&style=for-the-badge&color=38BDAE" alt="Profile views"/>
 </div>
 
-```hello from code```
-hello from code
