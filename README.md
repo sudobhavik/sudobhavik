@@ -112,6 +112,32 @@
   </table>
 </div>
 
+
+## 🚀 Live Demo Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🤖 Lightweight Browser Agent</h3>
+        <p>An intelligent, lightweight browser agent designed to automate browser-based tasks.</p>
+        <a href="https://guptchara-demo.malaysiawest.cloudapp.azure.com/">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-00C7B7?style=for-the-badge&logoColor=white" alt="Lightweight Browser Agent Live Demo"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <h3>⚡ ULPF — LayaParser</h3>
+        <p>A high-performance log preprocessing and parsing framework for normalizing and standardizing security logs.</p>
+        <a href="http://ec2-16-4-38-85.ap-south-1.compute.amazonaws.com:3000/">
+          <img src="https://img.shields.io/badge/🚀_Live_Demo-3A7BD5?style=for-the-badge&logoColor=white" alt="ULPF LayaParser Live Demo"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
